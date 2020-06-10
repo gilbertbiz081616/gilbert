@@ -1,0 +1,64 @@
+body{
+
+	background-image:url("images/web.jpg");
+	background-attachment:fixed;
+}
+
+#container{
+	
+	width:100%;
+	border:1px solid black;
+
+
+}
+
+#title{
+
+	text-align:center;
+
+}
+
+#points{
+	text-align:left;
+	margin-left:25%;
+}
+
+#talulut{
+	color:blue;
+
+}
+#Q1{
+
+	font-size:15;
+
+}
+#p1{
+font-size:20px;
+font-family:Time new roman;
+
+}
+
+#Q2{
+font-size:13px;
+
+}
+#p2{
+font-size:20px;
+font-family:Time new roman;
+
+}
+#Q3{
+font-size:13px;
+	
+}
+
+#p3{
+font-size:20px;
+font-family:Time new roman;
+
+
+}
+#Q4{
+font-size:13px;
+
+}
